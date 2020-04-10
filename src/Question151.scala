@@ -1,5 +1,3 @@
-import scala.collection.mutable.ArrayBuffer
-
 object Question151 {
     def main(args: Array[String]): Unit = {
         println(reverseWords("the sky is blue"))
